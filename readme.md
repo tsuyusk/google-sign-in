@@ -1,4 +1,13 @@
 # Google Sign In (React + Express)
+<p align="center">Demo + Users being storaged in local Database rather than firebase</p>
+
+
+<div style="display: flex;" align="center">
+  <img alt="gauth test" src="https://user-images.githubusercontent.com/53716129/215505044-68a7842c-eb5e-4a66-885c-2a51427575d3.gif" style="aspect-ratio: 16/9; width: 500px">
+  <img alt="users-in-local-db" src="https://user-images.githubusercontent.com/53716129/215504732-b2841672-e3f6-4f81-b08c-ad1302023135.jpeg" style="aspect-ratio: 1/1; width: 550px">
+</div>
+
+
 
 ## About
 This project was created in order to learn how to create '*Sign In With Google*' button. This repository contains both **Frontend** and **Backend**, since my main purpose is being able to integrate '*Sign In With Google*' buttons in custom backends.
