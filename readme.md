@@ -4,7 +4,6 @@
 
 <div style="display: flex;" align="center">
   <img alt="gauth test" src="https://user-images.githubusercontent.com/53716129/215505044-68a7842c-eb5e-4a66-885c-2a51427575d3.gif" style="aspect-ratio: 16/9; width: 500px">
-  <img alt="users-in-local-db" src="https://user-images.githubusercontent.com/53716129/215504732-b2841672-e3f6-4f81-b08c-ad1302023135.jpeg" style="aspect-ratio: 1/1; width: 550px">
 </div>
 
 
